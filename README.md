@@ -1,2 +1,1 @@
-ubuntu-snippets
-===============
+# There is my helpful thoughts
