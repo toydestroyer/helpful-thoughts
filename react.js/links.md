@@ -13,6 +13,8 @@
 * [React.js Conf 2015 - Data fetching for React applications at Facebook](http://youtu.be/9sc8Pyc51uU)
 * [React.js Conf 2015 - Communicating with channels](http://youtu.be/W2DgDNQZOwo)
 * [React.js Conf 2015 - react-router increases your productivity](http://youtu.be/XZfvW1a8Xac)
+* [React.js Conf 2015 - Full Stack Flux](http://youtu.be/KtmjkCuV-EU)
+* [React.js Conf 2015 - Making your app fast with high-performance components](http://youtu.be/KYzlpRvWZ6c)
 
 # Articles
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/) ([ReactJS для глупых людей](http://habrahabr.ru/post/249107/))
