@@ -19,3 +19,4 @@
 # Articles
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/) ([ReactJS для глупых людей](http://habrahabr.ru/post/249107/))
 * [Flux For Stupid People](http://blog.andrewray.me/flux-for-stupid-people/) ([Flux для глупых людей](http://habrahabr.ru/post/249279/))
+* [5 Practical Examples For Learning The React Framework](http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/) ([5 практических примеров для изучения фреймворка React](http://habrahabr.ru/post/229629/))
