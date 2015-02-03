@@ -15,8 +15,11 @@
 * [React.js Conf 2015 - react-router increases your productivity](http://youtu.be/XZfvW1a8Xac)
 * [React.js Conf 2015 - Full Stack Flux](http://youtu.be/KtmjkCuV-EU)
 * [React.js Conf 2015 - Making your app fast with high-performance components](http://youtu.be/KYzlpRvWZ6c)
+* [React.js Conf 2015 - Formatting with FormatJS and react-intl](http://youtu.be/Sla-DkvmIHY)
+* [React.js Conf 2015 - Hype!](http://youtu.be/z5e7kWSHWTg)
 
 # Articles
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/) ([ReactJS для глупых людей](http://habrahabr.ru/post/249107/))
 * [Flux For Stupid People](http://blog.andrewray.me/flux-for-stupid-people/) ([Flux для глупых людей](http://habrahabr.ru/post/249279/))
 * [5 Practical Examples For Learning The React Framework](http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/) ([5 практических примеров для изучения фреймворка React](http://habrahabr.ru/post/229629/))
+* [An Unconventional Review of React](http://www.letscodejavascript.com/v3/blog/2014/09/react_review) ([Нетрадиционный обзор React](habrahabr.ru/company/hexlet/blog/249579/))
