@@ -17,6 +17,10 @@
 * [React.js Conf 2015 - Making your app fast with high-performance components](http://youtu.be/KYzlpRvWZ6c)
 * [React.js Conf 2015 - Formatting with FormatJS and react-intl](http://youtu.be/Sla-DkvmIHY)
 * [React.js Conf 2015 - Hype!](http://youtu.be/z5e7kWSHWTg)
+* [React.js Conf 2015 - The complementarity of React and Web Components](http://youtu.be/g0TD0efcwVg)
+* [React.js Conf 2015 - Immutable Data and React](http://youtu.be/I7IdS-PbEgI)
+* [React.js Conf 2015 - Beyond the DOM: How Netflix plans to enhance your television experience](http://youtu.be/eNC0mRYGWgc)
+* [React.js Conf 2015 - Scalable Data Visualization](http://youtu.be/2ii1lEkIv1s)
 
 # Articles
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/) ([ReactJS для глупых людей](http://habrahabr.ru/post/249107/))
