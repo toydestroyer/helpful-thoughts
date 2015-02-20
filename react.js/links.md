@@ -32,3 +32,4 @@
 * [Flux For Stupid People](http://blog.andrewray.me/flux-for-stupid-people/) ([Flux для глупых людей](http://habrahabr.ru/post/249279/))
 * [5 Practical Examples For Learning The React Framework](http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/) ([5 практических примеров для изучения фреймворка React](http://habrahabr.ru/post/229629/))
 * [An Unconventional Review of React](http://www.letscodejavascript.com/v3/blog/2014/09/react_review) ([Нетрадиционный обзор React](habrahabr.ru/company/hexlet/blog/249579/))
+* [60fps on the mobile web](http://engineering.flipboard.com/2015/02/mobile-web/)
